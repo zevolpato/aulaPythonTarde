@@ -22,3 +22,5 @@ print(nomes)
 
 for x in nomes:
     print(x)
+
+#ensinar escopo
