@@ -23,4 +23,16 @@ print(nomes)
 for x in nomes:
     print(x)
 
+<<<<<<< HEAD
 #ensinar escopo
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> bce3284 (first)
