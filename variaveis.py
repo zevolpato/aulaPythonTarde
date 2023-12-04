@@ -23,9 +23,8 @@ print(nomes)
 for x in nomes:
     print(x)
 
-<<<<<<< HEAD
+
 #ensinar escopo
-=======
 
 
 
@@ -33,11 +32,3 @@ for x in nomes:
 
 
 
-
-
-<<<<<<< HEAD
->>>>>>> bce3284 (first)
-=======
-
-
->>>>>>> aaf9264 (first)
