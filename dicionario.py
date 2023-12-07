@@ -40,9 +40,9 @@ alunos = {
             "cursos" : ["Tecnico em internet", "Python"]
         }
 }
-
+alunos["aluno2"]["nome"] = "ze"
 print(type(alunos))
-
+print(alunos)
 
 
 
